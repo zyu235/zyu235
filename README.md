@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-734V5ZHM3K"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G‑XXXXXXXXXX');
+</script>
+
+<title>COM‑343 Assignment Website</title>
+</head>
+<body>
+<h1>Assignment: Set Your Website and Tracking Foundation</h1>
+<p>Student homework site for COM‑343 week2 assignment</p>
+</body>
+</html>
