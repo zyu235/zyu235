@@ -7,7 +7,7 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'G‑XXXXXXXXXX');
+  gtag('config', 'G-734V5ZHM3K');
 </script>
 
 <title>COM‑343 Assignment Website</title>
